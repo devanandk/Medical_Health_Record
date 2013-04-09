@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="splashTitle">Medical Health Record</string>
+    <string name="waitmessage">Please Wait</string>
+    <string name="app_name">Health Record</string>
+    <string name="Viewbuttonlabel">View</string>
+    <string name="Sosbuttonlabel">Call SOS</string>
+    <string name="aboutteam">About</string>
+    <string name="closeapplication">Exit</string>
+    <string name="ViewInformationtxt">Medical Record Summary</string>
+    <string name="UserName">Name</string>
+    <string name="UserDOB">Date Of Birth</string>
+    <string name="UserAddress">Address</string>
+    <string name="UserResiNumber">Residence Number</string>
+    <string name="UserOfficeNumber">Office Number</string>
+    <string name="UserDoctorNumber">Doctor Number</string>
+    <string name="UserBloodGroup">Blood Group</string>
+    <string name="UserHeight">Height</string>
+    <string name="UserWeight">Weight</string>
+    <string name="UserBloodPressure">Blood Pressure</string>
+    <string name="UserSurgery">Surgery Details</string>
+    <string name="UserMedications">Medication Details</string>
+    <string name="UserVaccination">Vaccination Details</string>
+    <string name="UserAllergy">Allergy Details</string>
+    <string name="EditButtonLabel">Edit</string>
+    <string name="EditTitle">Edit Information</string>
+    <string name="namehint">Enter Your Name</string>
+    <string name="dobhint">DD/MM/YYYY</string>
+    <string name="Addresshint">Enter Your Address</string>
+    <string name="residencehint">Enter Your Residence Number</string>
+    <string name="officehint">Enter Your Office Number</string>
+    <string name="doctorhint">Enter Your Doctor\'s Number</string>
+    <string name="bghint">Enter Your Blood Group</string>
+    <string name="heighthint">Enter Your Height in cm</string>
+    <string name="hintweight">Enter Weight In Kilogram</string>
+    <string name="bphint">Enter High Or Low</string>
+    <string name="surghint">Enter Surgery Details</string>
+    <string name="SaveButtonLabel">Save</string>
+    <string name="invalidPwd">Invalid Password</string>
+    <string name="validPwd">Welcome</string>
+    <string name="enterpwd">Enter Password</string>
+    <string name="blank"/>
+    <string name="exitString">Exit</string>
+    <string name="ContinueButtonText">Continue</string>
+    
+    <string name="weighthint">Enter Weight in Kilogram</string>
+    <string name="CancelButtonLabel">Cancel</string>
+    <string name="Hometitle">Home</string>
+    <string name="callPermission">android.permission.CALL_PHONE</string>
+    <string name="EditPwd">Enter Password To Change</string>
+    <string name="backButtonText">Back</string>
+    <string name="menuItemColor">BLUE</string>
+    <string name="phoneStatePermission">android.permission.READ_PHONE_STATE</string>
+    <string name="main_show_phone_call">android.intent.action.SHOW_PHONE_CALL_LIST</string>
+    <string name="last_phone_call_state_key">activityLpcsKey</string>
+    <string name="last_phone_call_bp_key">activityLpbpKey</string>
+
+</resources>
